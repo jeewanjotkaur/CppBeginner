@@ -1,6 +1,6 @@
 /*-----------------------------------
 Program: Learning Variables
-Problem Qustion: Create a variable and output it.
+Problem Question: Create a variable and output it.
 Desc: Learning about cin and variables
 Date: May 17, 2016
 
