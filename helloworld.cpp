@@ -1,6 +1,6 @@
 /*-----------------------------------
 Program: Hello World!
-Problem Qustion: Create a program that prints out the string "Hello World!"
+Problem Question: Create a program that prints out the string "Hello World!"
 Desc: Prints out a string
 Date: May 17, 2016
 
